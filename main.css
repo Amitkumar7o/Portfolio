@@ -1,0 +1,159 @@
+body {margin:0;}
+  /********Fixed content  Style START from here*********/ 
+.main-page{
+    width: 90%;
+    border-radius: 10px;
+    padding: 30px;
+    
+}
+
+
+
+.fixed-content{  
+    padding: 10px;
+  position: fixed;
+  width: 95%;  
+    height:600px;
+     border-radius: 10px;
+     background-image: linear-gradient(to bottom right, #ff895d, #c94747);
+     background-size: cover;
+}
+
+
+.fixed-content-1 img{
+    width: 30%;
+}
+
+
+.profile-image img{
+    width: 80%;
+    border-radius: 10%;
+    box-shadow: 1px 1px 6px 6px #f30909;
+    
+    
+}
+
+
+.fixed-content-2{
+    margin-top: 80px;
+    margin-left: 30px;
+    
+}
+.fixed-content-2 h2 {
+    font-weight: 700;
+    font-size: 300%;
+    letter-spacing: 7px;
+    color:whitesmoke;
+}
+.fixed-content-2 h4 {
+    margin-top: 15px;
+    font-weight: 400;
+    font-size: 150%;
+    color: whitesmoke;
+    letter-spacing: 2px;
+
+}
+.icons{
+  margin-left: -47px;
+}
+
+
+.heart{
+    animation: beat .50s infinite alternate;
+   
+}
+@keyframes beat{
+    to { transform: scale(1.4); }
+}
+
+.fa {
+    padding: 18px;    
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    box-shadow: 3px 3px 3px 3px #f30909;
+    margin-left: 15px;
+    margin-top: 15px;
+  }
+  
+  .fa:hover {
+  
+      text-decoration: none;
+      border: 1.5px solid rgb(236, 8, 8);
+      color: rgb(253, 252, 252);
+      
+    
+  }
+  
+  .fa-facebook ,.fa-linkedin, .fa-whatsapp{
+    background: #df3636;
+    color: white;
+    
+  }
+  
+ 
+  .button{
+        border: none;
+        width: 250px;
+        margin-left: 30px;
+        background: #df3636;
+        border-radius: 20px;
+        box-shadow: 3px 3px 3px 3px #f30909;
+    
+  }
+  .button p{
+    margin-top: 10px;
+      color: whitesmoke;
+      font-weight: 200;
+  }
+  .button:hover{
+    opacity: 0.7;
+    text-decoration: none;
+    border: 1.5px solid rgb(236, 8, 8);
+    color: rgb(255, 255, 255);
+    transform: scale(1.05);
+    
+  }
+  /********Fixed content  Style END from here*********/ 
+
+
+
+  /********OVER silde content Style start from here*********/
+.mains {
+    
+  
+      margin-top: 550px;
+      margin-left: 90px;
+      width: 88%;
+      
+      
+ 
+}
+  .The-process{
+      background-color: #333;
+      color: aliceblue;
+      padding:20px 50px 30px 50px;
+  
+
+  }
+  .The-process h2{
+    font-size: 40px;
+  }
+  .The-process p{
+    margin-top: 20px;
+      font-size: 17px;
+      display: flexbox;
+      
+  }
+  .skills span{
+color: #333;
+font-weight: 900;
+  }
+  .progress div{
+    padding: 5px;
+  }
+
+/***************/
+
+
+

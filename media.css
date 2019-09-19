@@ -1,0 +1,120 @@
+
+    @media screen and (max-width: 1024px) {
+
+        .button{
+            width: 200px;
+      }
+      .profile img{
+        width: 100%;
+        margin-top:-20px;   
+    }
+    .mains{
+        margin-top: 450px;
+        border-radius: 10px;
+    }
+    }
+ 
+    @media screen and (max-width: 768px) {
+      
+        .main-page{
+            width: 70%;
+            padding: 30px;
+            
+        }
+        
+        .button{
+        
+            width: 180px;
+        
+      }
+      .icons ul{
+          padding-top: 30px;
+      }
+    .icons ul a{
+        padding:15px;
+    
+    }
+     
+.profile-image img{
+    width: 100%;
+    margin-top: 30px;
+    margin-left: -20px;
+
+    
+    
+    
+}
+    
+    
+      .fixed-content-2 h2 {
+        font-weight: 450;
+        font-size: 300%;
+        margin-top: -50px;
+        
+    }
+    .fixed-content-2 h4 {
+        margin-top: 15px;
+        font-weight: 400;
+        font-size: 120%;
+
+    }
+    .icons{
+        margin-top: -20px;
+      }
+     .mains{
+         margin-top: 450px;
+     }   
+    }
+
+    
+    @media screen and (max-width: 425px) {
+                .fixed-content{    
+                    height:600px;
+                    padding: 5px;
+                     width: 85%;
+                     
+                }
+
+
+.fixed-content-1 img{
+    width: 30%;
+    
+
+}
+.profile-image img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: -480px;
+    margin-left: 200px;
+    
+    
+    
+}
+
+.fixed-content-2{
+    
+    margin-top: 0px;
+    margin-left: 15px;
+
+    
+}
+.fixed-content-2 h2 {
+    margin-top:50px;
+    font-weight: 700;
+    font-size: 150%;
+    
+}
+.fixed-content-2 h4 {
+    margin-top: 15px;
+    font-weight: 400;
+    font-size: 100%;
+   
+
+}
+.button{
+        display: none;
+    
+}
+
+            }
